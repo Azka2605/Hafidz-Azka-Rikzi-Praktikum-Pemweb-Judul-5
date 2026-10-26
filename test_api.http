@@ -28,12 +28,13 @@ Content-Type: application/json
 Accept: application/json
 
 {
-  "nim": "240101088",
-  "nama": "Rizky Ramadhan",
+  "npm": "2415061008",
+  "nama": "Hafidz Azka Rikzi",
   "program_studi": "Teknik Informatika",
   "angkatan": 2024,
-  "email": "rizky.ramadhan@example.com"
+  "email": "hafidzazkarikzi@gmail.com"
 }
+
 
 ###
 
@@ -43,7 +44,7 @@ Content-Type: application/json
 Accept: application/json
 
 {
-  "nim": "230101001",
+  "npm": "230101001",
   "nama": "Ahmad Fauzi, S.Kom.",
   "program_studi": "Teknik Informatika",
   "angkatan": 2023,
